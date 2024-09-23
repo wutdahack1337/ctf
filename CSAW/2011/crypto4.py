@@ -1,6 +1,0 @@
-import base64;
-
-cipher_text = "VGhhdCBtZWV0aW5nIHdhcyBhIGxpdHRsZSBjcmF6eS4gV2UgaGF2ZSBubyBpZGVhIHdoZXJlIHRob3NlIGd1eXMgaW4gdGhlIGJsYWNrIHN1aXRzIGNhbWUgZnJvbSwgYnV0IHdlIGFyZSBsb29raW5nIGludG8gaXQuIFVzZSB0aGUga2V5IGluZmlsdHJhdGlvbiBmb3IgbmV4dCB3ZWVrknMgbWVldGluZy4gU3RheSB3aXRoIHRoZSBjYXVzZSBhbmQgd2Ugd2lsbCBzdWNjZWVkLg==";
-message = base64.b64decode(cipher_text);
-
-print(message);
