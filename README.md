@@ -1,2 +1,2 @@
-# ctf
-CTF
+# ctfs
+Capture The Flags
