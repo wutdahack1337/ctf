@@ -1,0 +1,4 @@
+c1 c2 c3 c4 have same remainder mod p
+so use gcd to recover p, then decrypt
+
+https://martinralbrecht.wordpress.com/2020/03/21/the-approximate-gcd-problem/
